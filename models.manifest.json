@@ -74,7 +74,21 @@
         "yawAppliedDeg": 90,
         "wrapperNode": "AE_Forward_PlusZ"
       },
-      "rootMotion": "stripped (forward axis) on Bip01_05_scaleCompensation, all clips in place"
+      "rootMotion": "stripped (forward axis) on Bip01_05_scaleCompensation, all clips in place",
+      "seatOffset": {
+        "reference": "centre of the horse skinned-mesh bounding box (x,z) and its lowest point (y), rest pose = default node TRS with no clip applied, measured with three.js r186 CPU skinning",
+        "units": "game metres: file units x 2/1.7008 (HorseBody scale), FieldKing x1.25 group NOT included",
+        "x": 0.01,
+        "yAboveGround": 1.701,
+        "z": -0.17,
+        "zMeaning": "negative = behind the bbox centre",
+        "fileUnits": {
+          "x": 0.008,
+          "yAboveGround": 1.446,
+          "z": -0.145
+        },
+        "note": "the bbox centre moves with head/neck/tail: at HorseALL_Idle t=0 z=-0.234, t=2 s z=+0.004, RunLoop t=0.3 z=+0.209, so compare offsets only at the stated rest pose"
+      }
     },
     {
       "file": "models/units/knight.glb",

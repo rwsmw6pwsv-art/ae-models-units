@@ -1,0 +1,182 @@
+{
+  "manifestVersion": 1,
+  "package": "ae-models-units",
+  "convention": {
+    "forward": "+Z",
+    "up": "+Y",
+    "seat": "Mount rider attach node named \"Seat\": +Z forward, +Y up, world scale = model scale, origin on the saddle-top surface where the rider hips sit"
+  },
+  "models": [
+    {
+      "file": "models/units/archer.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/ballista.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/buffalo.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 45,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/catapult_small.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 90,
+        "wrapperNode": "AE_Forward_PlusZ"
+      },
+      "note": "throw direction measured from shoot_animation arm tip (was -X); code CATAPULT_FACE must be removed together with this file"
+    },
+    {
+      "file": "models/units/crocodile.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 135,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/gorilla.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 50,
+        "wrapperNode": "AE_Forward_PlusZ"
+      },
+      "note": "geometry recentred on origin (was ~0.09 file units off); native height unchanged 0.0094"
+    },
+    {
+      "file": "models/units/hippo.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": -90,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/horse_stylized.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "kind": "mount",
+      "seat": "AE_Forward_PlusZ/_rootJoint/RL_BoneRoot_01/RootNode_0_02/Hips_03/C_ctrl_04/Bip01_05_scaleCompensation/Bip01_05/Bip01_Pelvis_06_scaleCompensation/Bip01_Pelvis_06/Bip01_Spine_012_scaleCompensation/Bip01_Spine_012/Bip01_Spine1_025_scaleCompensation/Bip01_Spine1_025/Saddle_026_scaleCompensation/Saddle_026/Seat",
+      "reexport": {
+        "yawAppliedDeg": 90,
+        "wrapperNode": "AE_Forward_PlusZ"
+      },
+      "rootMotion": "stripped (forward axis) on Bip01_05_scaleCompensation, all clips in place"
+    },
+    {
+      "file": "models/units/knight.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "note": "not used in battle"
+    },
+    {
+      "file": "models/units/knight_seated.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/lion.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 203,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/mammoth.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/mega_dragon.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/moose.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 180,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/polar_bear.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 90,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/puma.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/ram.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/rhino.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/scorpion.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 90,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/siege_tower.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "note": "+Z by spike/ramp side; no change"
+    },
+    {
+      "file": "models/units/stag.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/tiger.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "reexport": {
+        "yawAppliedDeg": 90,
+        "wrapperNode": "AE_Forward_PlusZ"
+      }
+    },
+    {
+      "file": "models/units/warrior.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    },
+    {
+      "file": "models/units/wolf.glb",
+      "forward": "+Z",
+      "up": "+Y"
+    }
+  ]
+}

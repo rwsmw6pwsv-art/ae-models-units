@@ -191,6 +191,654 @@
       "file": "models/units/wolf.glb",
       "forward": "+Z",
       "up": "+Y"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod0.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod1.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod2.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_royal/ae_horse_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod0.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_royal/ae_horse_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod1.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_royal/ae_horse_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod2.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_bronze/ae_knight_rider_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod0.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_bronze/ae_knight_rider_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod1.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_bronze/ae_knight_rider_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod2.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_bronze/ae_horse_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod0.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_bronze/ae_horse_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod1.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_bronze/ae_horse_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod2.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_royal/ae_knight_rider_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod0.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_royal/ae_knight_rider_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod1.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_royal/ae_knight_rider_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod2.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_iron/ae_knight_rider_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod0.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_iron/ae_knight_rider_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod1.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/knight_rider_iron/ae_knight_rider_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/knight_rider/ae_knight_rider_lod2.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_iron/ae_horse_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod0.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_iron/ae_horse_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod1.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/horse_iron/ae_horse_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/horse/ae_horse_lod2.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod0.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod1.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod2.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod0.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod1.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/rider/ae_rider_rigged_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/rider/ae_rider_rigged_lod2.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#401"
+    },
+    {
+      "file": "models/units/lod/ram_bronze/ae_ram_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod0.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_bronze/ae_ram_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod1.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_bronze/ae_ram_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod2.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_bronze/ae_siege_tower_open_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod0.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_bronze/ae_siege_tower_open_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod1.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_bronze/ae_siege_tower_open_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod2.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_royal/ae_ram_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod0.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_royal/ae_ram_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod1.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_royal/ae_ram_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod2.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_royal/ae_catapult_small_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_royal/ae_catapult_small_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_royal/ae_catapult_small_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_royal/ae_scorpion_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod0.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_royal/ae_scorpion_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod1.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_royal/ae_scorpion_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod2.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_royal/ae_siege_tower_open_large_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod0.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_royal/ae_siege_tower_open_large_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod1.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_royal/ae_siege_tower_open_large_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod2.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_iron/ae_ram_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod0.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_iron/ae_ram_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod1.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/ram_iron/ae_ram_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/ram/ae_ram_lod2.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_iron/ae_catapult_small_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_iron/ae_catapult_small_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_iron/ae_catapult_small_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_bronze/ae_siege_tower_open_large_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod0.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_bronze/ae_siege_tower_open_large_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod1.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_bronze/ae_siege_tower_open_large_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod2.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_iron/ae_scorpion_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod0.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_iron/ae_scorpion_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod1.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_iron/ae_scorpion_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod2.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_royal/ae_siege_tower_open_royal_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod0.glb",
+      "tier": "Royal",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_royal/ae_siege_tower_open_royal_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod1.glb",
+      "tier": "Royal",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_royal/ae_siege_tower_open_royal_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod2.glb",
+      "tier": "Royal",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_iron/ae_siege_tower_open_large_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod0.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_iron/ae_siege_tower_open_large_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod1.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_large_iron/ae_siege_tower_open_large_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open_large/ae_siege_tower_open_large_lod2.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_bronze/ae_catapult_small_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_bronze/ae_catapult_small_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/catapult_small_bronze/ae_catapult_small_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/catapult_small.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_iron/ae_siege_tower_open_iron_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod0.glb",
+      "tier": "Iron",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_iron/ae_siege_tower_open_iron_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod1.glb",
+      "tier": "Iron",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/siege_tower_open_iron/ae_siege_tower_open_iron_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/siege_tower_open/ae_siege_tower_open_lod2.glb",
+      "tier": "Iron",
+      "lod": 2,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_bronze/ae_scorpion_bronze_lod0.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod0.glb",
+      "tier": "Bronze",
+      "lod": 0,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_bronze/ae_scorpion_bronze_lod1.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod1.glb",
+      "tier": "Bronze",
+      "lod": 1,
+      "issue": "#402"
+    },
+    {
+      "file": "models/units/lod/scorpion_bronze/ae_scorpion_bronze_lod2.glb",
+      "forward": "+Z",
+      "up": "+Y",
+      "tierOf": "models/units/lod/scorpion/ae_scorpion_lod2.glb",
+      "tier": "Bronze",
+      "lod": 2,
+      "issue": "#402"
     }
   ]
 }
